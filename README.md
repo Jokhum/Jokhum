@@ -1,5 +1,4 @@
-### Hi there 👋, My name is Pål and I'm a norwegian front-end developer in development.
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### My name is Pål and I'm a norwegian front-end developer in development.
 
 33 year old front-end student from the cold lands of Norway, currently searching for work and finishing up my last year at Noroff.
 
