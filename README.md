@@ -33,7 +33,7 @@
 ## Reach out to me
 
 <a href="https://www.linkedin.com/in/pwerven/" target="_blank">
-  <img src=![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) />
+  <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white />
 </a>
 <a href="mailto:p_werven@gmail.com" target="_blank">
   <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
