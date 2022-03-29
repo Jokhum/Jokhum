@@ -1,5 +1,7 @@
 ## Hi and welcome to my GitHub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello">
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Jokhum.visitor-badge&left_text=My%20Page%20Visitors)
+
 I'm Pål, a 33 year old plumber gone front-end student from the cold lands of Norway, currently searching for work and finishing up my last year at Noroff.
 
 ## Skills & Experience: 
@@ -35,8 +37,6 @@ I'm Pål, a 33 year old plumber gone front-end student from the cold lands of No
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jokhum&show_icons=true&theme=vision-friendly-dark)
 
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Jokhum.visitor-badge&left_text=My%20Page%20Visitors)
 
 ## Reach out to me
 
