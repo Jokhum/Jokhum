@@ -11,7 +11,7 @@
 
 ## Nowadays
 
-- 🔭 I’m currently working on school projects & this page. 
+- 🔭 I’m currently working on school projects & my CV.
 - 🌱 I’m currently learning Next.Js 
 
 ## Links
