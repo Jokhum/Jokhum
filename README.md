@@ -34,6 +34,8 @@ I'm Pål, a 33 year old plumber gone front-end student from the cold lands of No
 - :dog: Fun fact: I have a staffordshire bullterrier by the name Brox, named after the legendary orc warrior Broxigar the Red in Warcraft Lore.
 <img src="https://raw.githubusercontent.com/Jokhum/Jokhum/main/broximg.jpg" height="300px" />
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jokhum)](https://github.com/Jokhum/github-readme-stats)
+
 ## :calling: Reach out to me
 
 <a href="https://www.linkedin.com/in/pwerven/" target="_blank">
