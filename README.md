@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning Next.Js 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jokhum&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jokhum&show_icons=true&theme=highcontrast)
 
 ## Reach out to me
 
