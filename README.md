@@ -1,4 +1,4 @@
-## My name is Pål and I'm a norwegian front-end developer in development.
+## Hi I'm Pål <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello">
 
 33 year old front-end student from the cold lands of Norway, currently searching for work and finishing up my last year at Noroff.
 
