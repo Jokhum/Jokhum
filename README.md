@@ -4,7 +4,7 @@
 
 I'm Pål, a 33 year old plumber gone front-end student from the cold lands of Norway, currently searching for work and finishing up my last year at Noroff.
 
-## :scroll:Skills & Experience: 
+## :scroll: Skills & Experience: 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,7 +27,7 @@ I'm Pål, a 33 year old plumber gone front-end student from the cold lands of No
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-## Nowadays
+## :calendar: Nowadays
 
 - :warning: I’m currently working on a school project, [my own site](https://pwerven.dev) and my CV.
 - :brain: I’m currently learning Next.Js 
@@ -38,7 +38,7 @@ I'm Pål, a 33 year old plumber gone front-end student from the cold lands of No
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jokhum&show_icons=true&theme=vision-friendly-dark)
 
 
-## Reach out to me
+## :calling: Reach out to me
 
 <a href="https://www.linkedin.com/in/pwerven/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white />
