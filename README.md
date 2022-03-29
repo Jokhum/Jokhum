@@ -42,6 +42,6 @@ I'm Pål, a 33 year old plumber gone front-end student from the cold lands of No
   <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
 </a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Jokhum.visitor-badge&left_text=My%20Page%20Visitors)
 
 
