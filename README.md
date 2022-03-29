@@ -1,6 +1,6 @@
-## Hi I'm Pål <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello">
+## Hi and welcome to my GitHub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello">
 
-33 year old front-end student from the cold lands of Norway, currently searching for work and finishing up my last year at Noroff.
+I'm Pål, a 33 year old plumber gone front-end student from the cold lands of Norway, currently searching for work and finishing up my last year at Noroff.
 
 ## Skills & Experience: 
 
@@ -41,5 +41,7 @@
 <a href="mailto:p_werven@gmail.com" target="_blank">
   <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
 </a>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
 
 
