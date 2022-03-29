@@ -30,7 +30,7 @@ I'm Pål, a 33 year old plumber gone front-end student from the cold lands of No
 - 🔭 I’m currently working on a school project, [my own site](https://pwerven.dev) and my CV.
 - 🌱 I’m currently learning Next.Js 
 - :dog: Fun fact: I have a a dog named Brox, named after the legendary orc warrior Broxigar the Red in Warcraft Lore.
-<img src="https://raw.githubusercontent.com/Jokhum/Jokhum/main/broximg.jpg" height="300px"/>
+<img src="https://raw.githubusercontent.com/Jokhum/Jokhum/main/broximg.jpg" height="400px" align="center"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jokhum&show_icons=true&theme=vision-friendly-dark)
