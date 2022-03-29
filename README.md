@@ -29,6 +29,8 @@
 - 🔭 I’m currently working on a school project, [my own site](https://pwerven.dev) and my CV.
 - 🌱 I’m currently learning Next.Js 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jokhum)](https://github.com/Jokhum/github-readme-stats)
+
 ## Links
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jokhum)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pwerven//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.pwerven.dev)  
