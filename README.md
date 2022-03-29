@@ -33,6 +33,9 @@ I'm Pål, a 33 year old plumber gone front-end student from the cold lands of No
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jokhum&show_icons=true&theme=vision-friendly-dark)
 
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Jokhum.visitor-badge&left_text=My%20Page%20Visitors)
+
 ## Reach out to me
 
 <a href="https://www.linkedin.com/in/pwerven/" target="_blank">
@@ -41,7 +44,3 @@ I'm Pål, a 33 year old plumber gone front-end student from the cold lands of No
 <a href="mailto:p_werven@gmail.com" target="_blank">
   <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
 </a>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Jokhum.visitor-badge&left_text=My%20Page%20Visitors)
-
-
