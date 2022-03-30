@@ -1,10 +1,13 @@
 ## Hi and welcome to my GitHub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello">
 
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Jokhum.visitor-badge&left_text=Visitors%20At%20My%20Page)
 
 I'm Pål, a 33 year old former plumber gone front-end student from the cold lands of Norway, currently searching for work and finishing up my last year at Noroff.
 
+
 ## :scroll: Skills & Experience: 
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,6 +32,7 @@ I'm Pål, a 33 year old former plumber gone front-end student from the cold land
 
 ## :calendar: Nowadays
 
+
 - :warning: I’m currently working on a school project, [my portfolio](https://pwerven.dev) and my CV.
 - :brain: I’m currently learning Next.Js 
 - :dog: I have a staffordshire bullterrier by the name Brox, named after the legendary orc warrior Broxigar the Red in Warcraft Lore.
@@ -42,7 +46,9 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+
 ## :calling: Reach out to me
+
 
 <a href="https://www.linkedin.com/in/pwerven/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white />
