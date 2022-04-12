@@ -32,7 +32,7 @@ I'm Pål, a 33 year old former plumber gone front-end student from the cold land
 ## :calendar: Nowadays
 
 
-- :warning: I’m currently working on my school exam, [my portfolio](https://pwerven.dev) and my CV.
+- :warning: I’m currently working on the startup of my final semester's exam. Planning & design on the way 👍
 - :brain: I’m currently learning Next.Js 
 - :dog: I have a staffordshire bullterrier by the name Brox, named after the legendary orc warrior Broxigar the Red in Warcraft Lore.
 <img src="https://raw.githubusercontent.com/Jokhum/Jokhum/main/broximg.jpg" height="300px" />
