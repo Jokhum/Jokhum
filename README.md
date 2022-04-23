@@ -38,6 +38,18 @@ I'm Pål, a 33 year old former plumber gone front-end student from the cold land
 <img src="https://raw.githubusercontent.com/Jokhum/Jokhum/main/broximg.jpg" height="300px" />
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 8 hrs 36 mins
+
+SCSS         4 hrs 19 mins   ████████████▓░░░░░░░░░░░░   50.29 %
+JavaScript   2 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.32 %
+HTML         1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
+CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
+
 <!--END_SECTION:waka-->
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Jokhum.visitor-badge&left_text=Visitors%20At%20My%20Page)
