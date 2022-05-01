@@ -40,14 +40,13 @@ I'm Pål, a 33 year old former plumber gone front-end student from the cold land
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 15 hrs 52 mins
+Total Time: 13 hrs 2 mins
 
-JavaScript   11 hrs 8 mins   █████████████████▓░░░░░░░   70.14 %
-SCSS         4 hrs 32 mins   ███████░░░░░░░░░░░░░░░░░░   28.56 %
-Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JavaScript   9 hrs 30 mins   ██████████████████▒░░░░░░   72.85 %
+SCSS         3 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.94 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
