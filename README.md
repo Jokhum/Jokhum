@@ -37,17 +37,6 @@ I'm Pål, a 33 year old former plumber gone front-end student from the cold land
 - :dog: I have a staffordshire bullterrier by the name Brox, named after the legendary orc warrior Broxigar the Red in Warcraft Lore.
 <img src="https://raw.githubusercontent.com/Jokhum/Jokhum/main/broximg.jpg" height="300px" />
 
-<!--START_SECTION:waka-->
-
-```text
-Total Time: 1 hr 25 mins
-
-JavaScript   56 mins         ████████████████▒░░░░░░░░   65.73 %
-SCSS         29 mins         ████████▓░░░░░░░░░░░░░░░░   34.23 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-```
-
-<!--END_SECTION:waka-->
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Jokhum.visitor-badge&left_text=Visitors%20At%20My%20Page)
 
