@@ -2,7 +2,7 @@
 
 
 
-I'm Pål, a 33 year old former plumber gone front-end student from the cold lands of Norway, currently working as a frontend developer for Norconsult Informasjonsystemer.
+I'm Pål, a frontend developer currently working for Norconsult Digital.
 
 
 ## :scroll: Skills & Experience: 
